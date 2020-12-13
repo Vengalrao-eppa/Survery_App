@@ -59,10 +59,3 @@ Misc:
 
 	
 -----------------------------------------------------------------------------------------------------------
-I can think of the following implementations to achieve Optimization
-1. I did not get a chance to use the MONGODB as it was taking time for me to setup the environment in Cloud
-	- I have done the development locally
-2. We can implement a cache to store the User Responses more faster
-3. I can write another API to load/create the questions table
-4. I would create the docker for the application and deploy in Cloud GCP
-
