@@ -1,7 +1,5 @@
 Instructions to run the APP
 
-- Unzip the folder
-- go to SRC folder
 - Activate Environment: run venv/scripts/activate 
 - To create database, run the following commands
 	1. python - to enter python shell
